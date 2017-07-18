@@ -16,11 +16,11 @@
     "constrainProportions": true,
     "height": 170,
     "width": 170,
-    "x": 0,
-    "y": 0
+    "x": 195,
+    "y": 138
   },
   "hasClickThrough": false,
-  "hasClippingMask": true,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -48,7 +48,7 @@
       "id": "EAB2DE49-3193-444F-9C1B-EFA84A3611F4"
     }
   ],
-  "name": "Mask",
+  "name": "Combined Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -67,7 +67,7 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 0,
         "thickness": 1
       }
