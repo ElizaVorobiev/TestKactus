@@ -1,27 +1,38 @@
 {
   "_class": "shapeGroup",
-  "do_objectID": "62BB201A-F794-4713-AF52-CD5D5B2B54B9",
+  "clippingMaskMode": 0,
+  "do_objectID": "0832BCA8-D339-4978-B730-00A02703BE4A",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 236,
-    "width": 345,
-    "x": 107,
-    "y": 105
+    "height": 340,
+    "width": 483,
+    "x": 77,
+    "y": 53
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "Rectangle 2",
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "308520A7-22DF-4C23-AF10-4861B13583B7"
+    }
+  ],
+  "name": "Rectangle",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -32,7 +43,6 @@
     "borders": [
       {
         "_class": "border",
-        "isEnabled": false,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -41,6 +51,7 @@
           "red": 0.592
         },
         "fillType": 0,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
@@ -49,19 +60,18 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.06774831674995599,
-          "green": 0.9303784013605442,
-          "red": 0.9018096400665453
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 1,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{1, 0.070984835572332497}",
+          "from": "{1, 0.019324448529411765}",
           "gradientType": 0,
           "shouldSmoothenOpacity": false,
           "stops": [
@@ -69,10 +79,10 @@
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
-                "alpha": 1,
-                "blue": 0.9709373266777593,
-                "green": 0.9068167286134597,
-                "red": 0.1537466742911921
+                "alpha": 0.03470335144927536,
+                "blue": 0.8959954954064019,
+                "green": 0.9603528911564626,
+                "red": 0.02006419096698811
               },
               "position": 0
             },
@@ -80,16 +90,17 @@
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
-                "alpha": 1,
-                "blue": 0.06774831674995599,
-                "green": 0.9303784013605442,
-                "red": 0.9018096400665453
+                "alpha": 0.2874773550724637,
+                "blue": 0.8120317860648352,
+                "green": 0.07895761213457923,
+                "red": 0.8708014455782312
               },
               "position": 1
             }
           ],
-          "to": "{0, 1}"
+          "to": "{0.01912687629399586, 0.97409237132352944}"
         },
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -99,14 +110,5 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "321D0BAA-15B5-4515-A970-CFAB8B9C4591",
-      "class": "rectangle"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

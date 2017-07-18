@@ -1,10 +1,19 @@
 {
   "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "do_objectID": "9D893D9A-C21E-443B-BD40-E3015D9190A4",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,13 +25,30 @@
     "x": 740,
     "y": -11
   },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0832BCA8-D339-4978-B730-00A02703BE4A"
+    }
+  ],
   "name": "Artboard 2",
   "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -33,32 +59,10 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": true,
-  "layers": [
-    {
-      "id": "62BB201A-F794-4713-AF52-CD5D5B2B54B9",
-      "class": "shapeGroup"
-    }
-  ],
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
-  "hasBackgroundColor": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": []
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
-  "resizesContent": false,
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "guides": []
+    "guides": [
+    ]
   }
 }
